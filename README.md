@@ -344,41 +344,29 @@ IoT-based tourist safety system that tracks visitors using GPS and ESP32 technol
 
 ---
 
-# 📊 Developer Journey
+# 📌 What I'm Working On
 
-```text
-☕ Java            ████████████████ 90%
-
-🗄 MySQL           ██████████████░░ 80%
-
-🌐 HTML/CSS        ███████████████░ 85%
-
-📜 JavaScript      ████████████░░░░ 70%
-
-⚙ Git & GitHub    ██████████████░░ 80%
-
-🧩 DSA             ███████████░░░░░ 65%
-```
+- ☕ Improving Java & Object-Oriented Programming
+- 🧩 Practicing Data Structures & Algorithms
+- 🌱 Learning Spring Boot
+- 🚀 Building Real-World Java Projects
+- 💼 Preparing for Software Engineer Roles
 
 ---
 
-# 💡 Quote of the Day
+# 📂 Featured Repositories
 
-<p align="center">
+⭐ AI Yoga & Health Tracking Assistant
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+⭐ V8 Engine with Alcohol Detector
 
-</p>
+⭐ Smart Tourist Management System
 
 ---
 
-# 😂 Random Developer Joke
+# 🎯 Career Objective
 
-<p align="center">
-
-<img src="https://readme-jokes.vercel.app/api?theme=tokyonight&hideBorder=true"/>
-
-</p>
+Aspiring Java Developer with a strong interest in software development, problem-solving, and building scalable applications. Passionate about learning new technologies and contributing to innovative projects while continuously improving my technical skills.
 
 ---
 
@@ -404,7 +392,7 @@ IoT-based tourist safety system that tracks visitors using GPS and ESP32 technol
 
 # 📫 Contact
 
-📧 **Email:** rupan.pappani@gmail.com
+📧 **Email:** your-email@example.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/chitraruban-S-R
 
@@ -413,6 +401,8 @@ IoT-based tourist safety system that tracks visitors using GPS and ESP32 technol
 🧩 **LeetCode:** https://leetcode.com/Chitraruban
 
 ---
+
+
 
 # ❤ Profile Visitors
 
