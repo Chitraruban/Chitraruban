@@ -392,7 +392,7 @@ Aspiring Java Developer with a strong interest in software development, problem-
 
 # 📫 Contact
 
-📧 **Email:** your-email@example.com
+📧 **Email:** rupan.pappani@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/chitraruban-S-R
 
