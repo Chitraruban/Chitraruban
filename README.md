@@ -83,7 +83,7 @@ Java
 <td>🌐 Web</td>
 <td>
 
-HTML • CSS • JavaScript
+HTML 
 
 </td>
 </tr>
